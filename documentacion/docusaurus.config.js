@@ -84,9 +84,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'sidebar',
             position: 'left',
-            label: 'ENS',
+            label: 'Seguridad de SI',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {

@@ -10,6 +10,8 @@ module.exports = {
           items: [
             'seguridad-sistemas-informacion/ENS/ens-art-31',
             'seguridad-sistemas-informacion/ENS/ens-art-32',
+            'seguridad-sistemas-informacion/ENS/ens-art-33',
+
           ],
         },
       ],

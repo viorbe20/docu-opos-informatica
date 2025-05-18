@@ -22,7 +22,7 @@ Depende de los siguientes factores:
 - Categoría del sistema (ALTA, MEDIA, BAJA).
 - Perfil de Cumplimiento, en caso de que exista.
 
-> Nota: Se debe seguir la **Instrucción Técnica de Seguridad de Auditoría** y lo indicado en los **Anexos I y III** del ENS.
+> ✅  Nota: Se debe seguir la **Instrucción Técnica de Seguridad de Auditoría** y lo indicado en los **Anexos I y III** del ENS.
 
 ---
 
@@ -40,7 +40,7 @@ Debe incluir:
 5. Objetivo de la auditoría.
 6. Datos, hechos y observaciones en que se basen las conclusiones del informe.
 
-> Nota. Todo esto de conformidad con la Instrucción Técnica de  Seguridad de Auditoría de la Seguridad de los Sistemas de Información.
+> ✅  Nota. Todo esto de conformidad con la Instrucción Técnica de  Seguridad de Auditoría de la Seguridad de los Sistemas de Información.
 ---
 
 ### 📥 31.5 Entrega del Informe 
@@ -66,5 +66,21 @@ En caso de **fallos graves**, el Responsable del Sistema puede **suspender tempo
 Puedes ser solicitados por:
 - Los **responsables de seguridad** de la organización.
 - El **Centro Criptológico Nacional (CCN)**.
+
+---
+### 🧭 Resumen de ideas clave
+
+| Aspecto                                | Detalle                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------|
+| ¿Quién audita?                         | Entidades obligadas por el ENS                                          |
+| Periodicidad ordinaria                 | Cada 2 años                                                             |
+| Periodicidad extraordinaria            | Si hay cambios importantes en el sistema                               |
+| Excepciones                            | Fuerza mayor: prórroga de 3 meses                                       |
+| Factores que condicionan la auditoría  | Categoría del sistema y perfil de cumplimiento                          |
+| Métodos aceptados                      | Nacionales e internacionales                                            |
+| Contenido del informe                  | Dictamen, hallazgos, criterios, alcance, objetivo, datos                |
+| Entrega del informe                    | A responsables de seguridad y del sistema                               |
+| En categoría ALTA                      | Puede suspenderse el sistema si hay fallos graves                       |
+| Disponibilidad del informe             | Responsable de seguridad y CCN pueden solicitarlo                       |
 
 ---

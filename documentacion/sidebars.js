@@ -9,6 +9,7 @@ module.exports = {
           label: 'ENS',
           items: [
             'seguridad-sistemas-informacion/ENS/ens-art-31',
+            'seguridad-sistemas-informacion/ENS/ens-art-32',
           ],
         },
       ],

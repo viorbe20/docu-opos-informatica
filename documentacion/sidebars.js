@@ -6,17 +6,16 @@ module.exports = {
       items: [
         {
           type: 'category',
-          label: 'bases-de-datos',
+          label: 'Almacenamiento',
           items: [
             'bases-de-datos/db-tipos-de-raids',
-
           ],
         },
       ],
     },
     {
       type: 'category',
-      label: 'Seguridad',
+      label: 'Seguridad de los SI',
       items: [
         {
           type: 'category',
@@ -26,6 +25,13 @@ module.exports = {
             'seguridad-sistemas-informacion/ENS/ens-art-32',
             'seguridad-sistemas-informacion/ENS/ens-art-33',
 
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Procesos Críticos',
+          items: [
+            'seguridad-sistemas-informacion/procesos-criticos/continuidad-recuperacion-negocio',
           ],
         },
       ],

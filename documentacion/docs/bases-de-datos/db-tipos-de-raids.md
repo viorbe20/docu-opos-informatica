@@ -7,6 +7,8 @@ sidebar_label: RAID - Tipos y características
 RAID (Redundant Array of Independent Disks) es una tecnología que **combina varios discos duros en una sola unidad lógica** para mejorar el rendimiento, la redundancia o ambas cosas.
 
 ---
+
+## 📚 Índice
 - [📌 Vocabulario Clave](#-vocabulario-clave)
 - [🧩 Tipos de RAID más comunes](#-tipos-de-raid-más-comunes)
   - [🔹 RAID 0 – Striping](#-raid-0--striping)

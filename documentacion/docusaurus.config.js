@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'sidebar',
             position: 'left',
-            label: 'Seguridad de SI',
+            label: 'Seguridad de los SI',
           },
           {
             type: 'docSidebar',

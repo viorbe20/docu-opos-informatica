@@ -7,8 +7,22 @@ sidebar_label: RAID - Tipos y características
 RAID (Redundant Array of Independent Disks) es una tecnología que **combina varios discos duros en una sola unidad lógica** para mejorar el rendimiento, la redundancia o ambas cosas.
 
 ---
+- [📌 Vocabulario Clave](#-vocabulario-clave)
+- [🧩 Tipos de RAID más comunes](#-tipos-de-raid-más-comunes)
+  - [🔹 RAID 0 – Striping](#-raid-0--striping)
+  - [🔸 RAID 1 – Mirroring](#-raid-1--mirroring)
+  - [🔺 RAID 5 – Striping con paridad distribuida](#-raid-5--striping-con-paridad-distribuida)
+  - [🔰 RAID 6 – Striping con doble paridad](#-raid-6--striping-con-doble-paridad)
+  - [🧪 RAID 10 – Combinación de RAID 1 + RAID 0](#-raid-10--combinación-de-raid-1--raid-0)
+- [💣 ¿Y RAID 3 o RAID 2?](#-y-raid-3-o-raid-2)
+- [📋 Comparativa rápida](#-comparativa-rápida)
+- [🎯 Consejos de diosa del byte para el examen](#-consejos-de-diosa-del-byte-para-el-examen)
 
-![Texto alternativo](/img/raids.png)
+## 📌 Vocabulario Clave
+- **Paridad**: técnica de control de errores que consiste en generar y almacenar información redundante (generalmente mediante operaciones XOR) con el objetivo de reconstruir los datos perdidos en caso de fallo de un disco en un sistema de almacenamiento.
+- **RAID**: conjunto redundante de discos que mejora rendimiento, seguridad o ambos.
+- **Redundancia**: duplicación o cálculo de datos para proteger frente a fallos.
+...
 
 ### 🧩 Tipos de RAID más comunes
 
@@ -79,9 +93,9 @@ RAID (Redundant Array of Independent Disks) es una tecnología que **combina var
 
 ### 💣 ¿Y RAID 3 o RAID 2?
 
-- Son **obsoletos o raramente usados**. RAID 3 usa un disco dedicado solo a la paridad (punto débil). RAID 2 trabaja a nivel de bit y requiere sincronización exacta entre discos.
-
-> 🚫 En el examen 2022-PI te preguntaron cuál NO se puede usar si la paridad está distribuida: la respuesta correcta fue **RAID 3**:contentReference[oaicite:0]{index=0}.
+- Son **obsoletos o raramente usados**. 
+    * RAID 3 usa un disco dedicado solo a la paridad (punto débil). 
+    * RAID 2 trabaja a nivel de bit y requiere sincronización exacta entre discos.
 
 ---
 
@@ -97,7 +111,7 @@ RAID (Redundant Array of Independent Disks) es una tecnología que **combina var
 
 ---
 
-### 🎯 Consejos de diosa del byte para el examen
+### 🎯 Tips
 
 - Si te dicen “rendimiento sin tolerancia”, piensa en **RAID 0**.
 - Si te hablan de **resistencia a 2 fallos**, es **RAID 6**.
@@ -106,5 +120,3 @@ RAID (Redundant Array of Independent Disks) es una tecnología que **combina var
 - Si ves “RAID 10” y hay presupuesto, es la joya de la corona 👑.
 
 ---
-
-¿Quieres que te lo convierta también en una ficha imprimible o en modo flashcard para repaso express? 😏✨

@@ -88,6 +88,12 @@ const config = {
             position: 'left',
             label: 'Seguridad de SI',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'sidebar',
+            position: 'left',
+            label: 'Bases de Datos',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',

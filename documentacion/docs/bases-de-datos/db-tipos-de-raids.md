@@ -8,6 +8,8 @@ RAID (Redundant Array of Independent Disks) es una tecnología que **combina var
 
 ---
 
+![Texto alternativo](/img/raids.png)
+
 ### 🧩 Tipos de RAID más comunes
 
 #### 🔹 RAID 0 – Striping

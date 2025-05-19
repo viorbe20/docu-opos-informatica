@@ -2,6 +2,20 @@ module.exports = {
   sidebar: [
     {
       type: 'category',
+      label: 'Bases de Datos',
+      items: [
+        {
+          type: 'category',
+          label: 'bases-de-datos',
+          items: [
+            'bases-de-datos/db-tipos-de-raids',
+
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
       label: 'Seguridad',
       items: [
         {

@@ -9,7 +9,14 @@ module.exports = {
           type: 'category',
           label: 'Almacenamiento',
           items: [
-            'bases-de-datos/db-tipos-de-raids',
+            'bases-de-datos/almacenamiento-de-bases-de-datos/db-tipos-de-raids',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Arquitectura',
+          items: [
+            'bases-de-datos/arquitectura-de-bases-de-datos/modelo-ansi-sparc',
           ],
         },
       ],

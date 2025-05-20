@@ -40,6 +40,29 @@ module.exports = {
       ],
     },
   ],
+    // Sidebar: Seguridad de los Sistemas de Información
+    redesComunicaciones: [
+      {
+        type: 'category',
+        label: 'Redes y Comunicaciones',
+        items: [
+          {
+            type: 'category',
+            label: 'modelos-de-referencia',
+            items: [
+              'redes-y-comunicaciones/modelos-de-referencia/modelo-osi',
+            ],
+          },
+          // {
+          //   type: 'category',
+          //   label: 'Procesos Críticos',
+          //   items: [
+          //     'seguridad-sistemas-informacion/procesos-criticos/continuidad-recuperacion-negocio',
+          //   ],
+          // },
+        ],
+      },
+    ],
 
   // Sidebar: Seguridad de los Sistemas de Información
   seguridadSI: [

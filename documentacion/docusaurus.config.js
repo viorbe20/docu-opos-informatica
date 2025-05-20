@@ -96,6 +96,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'redesComunicaciones',
+            position: 'left',
+            label: 'Redes y Comunicaciones',
+          },  
+          {
+            type: 'docSidebar',
             sidebarId: 'seguridadSI',
             position: 'left',
             label: 'Seguridad de los SI',

@@ -10,6 +10,7 @@ module.exports = {
           label: 'Almacenamiento',
           items: [
             'bases-de-datos/almacenamiento-de-bases-de-datos/db-tipos-de-raids',
+            'bases-de-datos/almacenamiento-de-bases-de-datos/principios-acid',
           ],
         },
         {

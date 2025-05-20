@@ -84,17 +84,25 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'sidebar',
-            position: 'left',
-            label: 'Seguridad de los SI',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'sidebar',
+            sidebarId: 'basesDatos',
             position: 'left',
             label: 'Bases de Datos',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'gestionSistemas',
+            position: 'left',
+            label: 'Gestión de los SI',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'seguridadSI',
+            position: 'left',
+            label: 'Seguridad de los SI',
+          },         
+          {to: '/blog', 
+            label: 'Blog', 
+            position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

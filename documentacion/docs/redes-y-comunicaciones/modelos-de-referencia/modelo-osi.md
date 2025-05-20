@@ -159,6 +159,3 @@ El modelo OSI fue propuesto por ISO en 1984 para estandarizar la comunicación e
 Elementos de las diferentes capas
 
 ---
-
-> 🧠 **Tip para oposiciones A2**: aunque el modelo TCP/IP es el más usado, **OSI es el que suele salir más en preguntas teóricas**. ¡Te lo pintan seguro!
-

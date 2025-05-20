@@ -51,6 +51,7 @@ module.exports = {
             label: 'modelos-de-referencia',
             items: [
               'redes-y-comunicaciones/modelos-de-referencia/modelo-osi',
+              'redes-y-comunicaciones/modelos-de-referencia/modelo-tcp-ip',
             ],
           },
           // {
